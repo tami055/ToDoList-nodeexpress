@@ -1,5 +1,5 @@
 {
-  "name": "practycode",
+  "name": "node-ex",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tami055/node-ex.git"
+    "url": "git+https://github.com/tami055/ToDoList-nodeexpress.git"
   },
   "bugs": {
-    "url": "https://github.com/tami055/node-ex/issues"
+    "url": "https://github.com/tami055/ToDoList-nodeexpress/issues"
   },
   "homepage": "https://github.com/tami055/node-ex#readme",
   "description": ""
